@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-11 03:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: movmind.py:120
+msgid "Sistema: "
+msgstr ""
+
+#: movmind.py:121
+msgid "Plataforma: "
+msgstr ""
+
+#: movmind.py:122
+msgid "Processador: "
+msgstr ""
+
+#: movmind.py:123
+msgid "Informació uname: "
+msgstr ""
+
+#: movmind.py:135
+msgid "Aplicació Casc Emotiv Epoc"
+msgstr ""
+
+#: movmind.py:138
+msgid "Emotiv App"
+msgstr ""
+
+#: movmind.py:167
+msgid "Adquisició de la senyal"
+msgstr ""
+
+#: movmind.py:169
+msgid "Caracterització"
+msgstr ""
+
+#: movmind.py:171
+msgid "Entrenament"
+msgstr ""
+
+#: movmind.py:173
+msgid "Tests"
+msgstr ""
+
+#: movmind.py:206
+msgid "Senyals"
+msgstr ""
+
+#: movmind.py:210
+msgid "Gràfic de senyals"
+msgstr ""
+
+#: movmind.py:225
+msgid "Sensors"
+msgstr ""
+
+#: movmind.py:250 movmind.py:530
+msgid "Controls"
+msgstr ""
+
+#: movmind.py:253
+msgid "Casc: "
+msgstr ""
+
+#: movmind.py:256
+msgid "No connectat"
+msgstr ""
+
+#: movmind.py:260
+msgid "Bateria: "
+msgstr ""
+
+#: movmind.py:271
+msgid "Connectar"
+msgstr ""
+
+#: movmind.py:273
+msgid "Connectar amb el casc"
+msgstr ""
+
+#: movmind.py:280 movmind.py:346 movmind.py:407 movmind.py:456 movmind.py:495
+msgid "Sortir"
+msgstr ""
+
+#: movmind.py:282 movmind.py:348 movmind.py:409 movmind.py:458 movmind.py:497
+msgid "Tancar el programa"
+msgstr ""
+
+#: movmind.py:289
+msgid "Simular"
+msgstr ""
+
+#: movmind.py:291 movmind.py:467 movmind.py:506 movmind.py:624
+msgid "Llegir dades del disc"
+msgstr ""
+
+#: movmind.py:298
+msgid "Desar"
+msgstr ""
+
+#: movmind.py:300
+msgid "Desar dades al disc"
+msgstr ""
+
+#: movmind.py:308
+msgid "Parar"
+msgstr ""
+
+#: movmind.py:310
+msgid "Parar la connexió o la simulacio"
+msgstr ""
+
+#: movmind.py:355
+msgid "Carregar SVM"
+msgstr ""
+
+#: movmind.py:357
+msgid "Llegir dades del SVM des del disc"
+msgstr ""
+
+#: movmind.py:364
+msgid "Carregar test per SVM"
+msgstr ""
+
+#: movmind.py:366
+msgid "Llegir fitxer senyal per test del SVM"
+msgstr ""
+
+#: movmind.py:374
+msgid "Connecta"
+msgstr ""
+
+#: movmind.py:376
+msgid "Connecta el casc per fer test del SVM"
+msgstr ""
+
+#: movmind.py:416
+msgid "Carregar ANN"
+msgstr ""
+
+#: movmind.py:418
+msgid "Llegir dades del ANN des del disc"
+msgstr ""
+
+#: movmind.py:425
+msgid "Carregar test per ANN"
+msgstr ""
+
+#: movmind.py:427
+msgid "Llegir fitxer senyal per test del ANN"
+msgstr ""
+
+#: movmind.py:465 movmind.py:504 movmind.py:622
+msgid "Carregar Dades"
+msgstr ""
+
+#: movmind.py:658
+msgid "Resultats"
+msgstr ""
+
+#: movmind.py:711 movmind.py:813
+msgid "No es pot connectar amb el Casc"
+msgstr ""
+
+#: movmind.py:712 movmind.py:814
+msgid "Informació"
+msgstr ""
+
+#: movmind.py:751
+msgid "Desar fitxer de dades"
+msgstr ""
+
+#: movmind.py:765
+msgid "Carregar fitxer"
+msgstr ""
+
+#: movmind.py:768
+msgid "Simulació"
+msgstr ""
+
+#: movmind.py:782 movmind.py:791
+msgid "Carrega fitxer(s) de senyal"
+msgstr ""
+
+#: movmind.py:820
+msgid "Carrega fitxer ANN"
+msgstr ""
+
+#: movmind.py:831
+msgid "Carrega fitxer SVM"
+msgstr ""
+
+#: movmind.py:844 movmind.py:853
+msgid "Carrega fitxers de característiques"
+msgstr ""
+
+#: movmind.py:862
+msgid "Carrega fitxers de senyals EEG"
+msgstr ""
+
+#: movmind.py:876
+msgid "Fitxer del ANN llegit amb èxit!!"
+msgstr ""
+
+#: movmind.py:898
+msgid "lectura de les senyals del fitxer: "
+msgstr ""
+
+#: movmind.py:917
+msgid "lectura finalitzada amb éxit!!"
+msgstr ""
+
+#: movmind.py:923
+msgid "calcula les característiques de la senyal escollida ... "
+msgstr ""
+
+#: movmind.py:927
+msgid "càlcul realitzat amb èxit!!! "
+msgstr ""

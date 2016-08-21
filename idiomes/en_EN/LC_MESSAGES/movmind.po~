@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-10 23:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: movmind.py:124
+msgid "Sistema: "
+msgstr "System: "
+
+#: movmind.py:125
+msgid "Plataforma: "
+msgstr "Platform: "
+
+#: movmind.py:126
+msgid "Processador: "
+msgstr "Processor: "
+
+#: movmind.py:127
+msgid "Informació uname: "
+msgstr "uname Info: "
+
+#: movmind.py:139
+msgid "Aplicació Casc Emotiv Epoc"
+msgstr "Emotiv Epoc's Headset"
+
+#: movmind.py:142
+msgid "Emotiv App"
+msgstr "Emotiv App"
+
+#: movmind.py:171
+msgid "Adquisició de la senyal"
+msgstr "Signal Acquisition"
+
+#: movmind.py:173
+msgid "Caracterització"
+msgstr "Feature extraction"
+
+#: movmind.py:175
+msgid "Entrenament"
+msgstr "Training"
+
+#: movmind.py:177
+msgid "Tests"
+msgstr "Tests"
